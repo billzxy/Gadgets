@@ -1,5 +1,5 @@
 """
-Good shit bitch!
+Good shit m8!
 """
 
 from tkinter import *  
