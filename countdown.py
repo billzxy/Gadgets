@@ -1,5 +1,6 @@
 """
-Good shit m8!
+Good stuff m8!
+Because this thing has a GUI!
 """
 
 from tkinter import *  
